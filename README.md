@@ -18,6 +18,9 @@ cp .env.example .env
 # create database and migrate
 php artisan migrate
 
+# Generate application key
+php artisan key:generate
+
 # start server
 php artisan serve
 ```
