@@ -1,4 +1,4 @@
-# Youtube video: Laravel 5.5 for beginner
+# Youtube video: Laravel 5.5 for beginner
 
 - Video url：https://youtu.be/BIqXE1hXYs4
 
